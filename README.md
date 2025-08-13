@@ -1,72 +1,72 @@
-# 📄 Hoja de Vida – Ing. Electrónico
+<!-- Encabezado con estilo -->
+<h1 align="center" style="color:red;">📄 Bienvenidos a mi Hoja de Vida como Futuro Ingeniero Electrónico</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ingeniería-Electrónica-red?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubicación-Bogotá-black?style=for-the-badge&logo=google-maps&logoColor=red" />
+  <img src="https://img.shields.io/badge/Universidad-Santo_Tomás-red?style=for-the-badge&logo=academia&logoColor=white" />
+</p>
+
+---
 
 ## 👨‍💻 Sobre mí
-Ingeniero Electrónico con [X años] de experiencia en diseño, desarrollo y mantenimiento de sistemas electrónicos. Apasionado por la innovación tecnológica, la automatización industrial y la integración de hardware y software.
+Soy **Ingeniero Electrónico en formación**, actualmente cursando el **séptimo semestre** en la Universidad Santo Tomás. Me apasiona la innovación tecnológica, la automatización y el desarrollo de soluciones creativas para problemas reales.
 
 ---
 
 ## 🎯 Datos Personales
-- **Nombre:** Juan Pérez López  
+- **Nombre:** Jonathan David Díaz  
 - **Ubicación:** Bogotá, Colombia  
-- **Correo:** juanperez@example.com  
-- **LinkedIn:** [linkedin.com/in/juanperez](https://linkedin.com/in/juanperez)  
-- **GitHub:** [github.com/juanperez](https://github.com/juanperez)  
+- **Correo:** [jonathan.diazv@usantotomas.edu.com](mailto:jonathan.diazv@usantotomas.edu.com)  
+- **GitHub:** [Follonirmx](https://github.com/Follonirmx)  
 
 ---
 
 ## 🎓 Formación Académica
-- **Ingeniería Electrónica** – Universidad Nacional de Colombia (2015 – 2020)  
-- **Diplomado en Automatización Industrial** – SENA (2021)  
+🎓 **Ingeniería Electrónica** – Universidad Santo Tomás *(2022 – Actualidad)*  
 
 ---
 
 ## 💼 Experiencia Profesional
-
-### 🔧 Ingeniero de Proyectos – Empresa XYZ (2022 – Presente)
-- Diseño y desarrollo de sistemas de control electrónico para líneas de producción.  
-- Integración de microcontroladores y PLCs para procesos industriales.  
-- Implementación de protocolos de comunicación (Modbus, CAN, RS-485).
-
-### 📡 Técnico en Electrónica – Empresa ABC (2020 – 2022)
-- Mantenimiento preventivo y correctivo de equipos electrónicos industriales.  
-- Diagnóstico y reparación de circuitos electrónicos.  
-- Documentación técnica y soporte en campo.
+🐎 **Community Manager** – *SusCaballos* *(2024 – Actualidad)*  
+Gestión de redes sociales, creación de contenido y manejo de interacción con la comunidad ecuestre.
 
 ---
 
 ## 🛠 Habilidades Técnicas
-- **Hardware:** Diseño PCB, Altium Designer, KiCad.  
-- **Programación:** C/C++, Python, Arduino, MATLAB.  
-- **Automatización:** PLC Siemens, Allen Bradley, Ladder, HMI.  
-- **Protocolos:** UART, SPI, I2C, CAN, Ethernet.  
-- **Otros:** Soldadura SMD, análisis de señales, instrumentación.
+- ⚙️ **Hardware:** Diseño PCB, circuitos de potencia ⚠️  
+- 💻 **Programación:** C/C++, Python, Code Composer Studio, MATLAB  
+- 📊 **Otros:** Análisis de señales, instrumentación
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PCB-Design-red?style=for-the-badge&logo=circuit-board&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-C++-black?style=for-the-badge&logo=cplusplus&logoColor=red" />
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=red" />
+</p>
 
 ---
 
 ## 🚀 Proyectos Destacados
-- **Sistema de Monitoreo IoT para Plantas Industriales**  
-  Desarrollo de hardware y firmware para monitorear variables críticas usando ESP32 y comunicación MQTT.
+🚗 **Carro Seguidor de Línea**  
+Diseño e implementación de hardware para un seguidor de línea usando compuertas lógicas.
 
-- **Robot Seguidor de Línea Autónomo**  
-  Integración de sensores ópticos y control PID para competencias universitarias.
-
----
-
-## 📜 Certificaciones
-- Certificación en Programación de PLC – Siemens  
-- Curso Avanzado de Electrónica Digital – Coursera  
+💡 **Tabla de Control Trifásica**  
+Integración de hardware para el encendido y apagado de lámparas LED mediante control trifásico.
 
 ---
 
 ## 🌐 Idiomas
-- Español – Nativo  
-- Inglés – Intermedio (B2)  
+- 🇪🇸 Español – Nativo  
+- 🇬🇧 Inglés – Intermedio (B2)  
 
 ---
 
 ## 📌 Intereses
-Innovación tecnológica, robótica, energías renovables, IA aplicada a sistemas embebidos.
+🔋 Innovación tecnológica • ☀️ Energías renovables • 🤖 Automatización • ⚙️ Sistemas de control
 
 ---
 
-> 💡 **Nota:** Esta hoja de vida está alojada en GitHub como parte de mi portafolio profesional.
+<p align="center">
+  <img src="https://img.shields.io/badge/Contacto-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portafolio-GitHub-black?style=for-the-badge&logo=github&logoColor=red" />
+</p>
